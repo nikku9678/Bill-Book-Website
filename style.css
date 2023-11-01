@@ -82,7 +82,7 @@ header.shadow {
   text-decoration: none;
   font-weight: 400;
 }
-.navbar button{
+.navbar button,.navbar button a {
   border: none;
   background-color: orangered;
   padding: 5px 10px;
